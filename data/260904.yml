@@ -7,7 +7,7 @@ about:
   head: f6058f8
   archived: false
   latestVersion: v0.28.2
-  collectedAt: 2026-09-04T19:36:30Z
+  collectedAt: 2026-09-04T20:54:18Z
 timeline:
   created: 2016-06-14
   lastCommit: 2026-08-09
@@ -86,6 +86,74 @@ total:
   openIssue: 550
   commit: 4478
 ---
+path: /home/runner/.x-repo/github.com/evanw/esbuild
+collectedAt: 2026-09-04T20:54:22Z
+loc:
+  Go:
+    code: 120620
+    comments: 15344
+    blanks: 14033
+    files: 157
+  JavaScript:
+    code: 29580
+    comments: 1013
+    blanks: 1727
+    files: 22
+  Json:
+    code: 11588
+    comments: 0
+    blanks: 0
+    files: 54
+  TypeScript:
+    code: 8621
+    comments: 962
+    blanks: 920
+    files: 18
+  Makefile:
+    code: 785
+    comments: 151
+    blanks: 212
+    files: 1
+  Html:
+    code: 736
+    comments: 1
+    blanks: 12
+    files: 5
+  Css:
+    code: 72
+    comments: 0
+    blanks: 23
+    files: 1
+  Svg:
+    code: 64
+    comments: 0
+    blanks: 0
+    files: 5
+  Sh:
+    code: 17
+    comments: 3
+    blanks: 2
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 4
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12724
+    blanks: 6407
+    files: 47
+  Text:
+    code: 0
+    comments: 24192
+    blanks: 2767
+    files: 16
+total:
+  code: 174199
+  comments: 54647
+  blanks: 26363
+  files: 328
 ---
 date: "2026-08-24"
 repo:
