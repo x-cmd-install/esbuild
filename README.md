@@ -47,41 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,053 · **Forks**: 1,343 · **Open issues**: 3,924 · **Contributors**: 127
+- **Stars**: 40,053 · **Forks**: 1,344 · **Open issues**: 3,924 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 69 · **Closed issues**: 3374 · **Open issues**: 550 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 71 · **Closed issues**: 3374 · **Open issues**: 550 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 10 | 1 | 8 | 0 |
-| last60d | 2026-07-15 | 1 | 1 | 14 | 6 | 13 | 34 |
-| 90d | 2026-06-15 | 1 | 3 | 14 | 12 | 19 | 34 |
-| last180d | 2026-03-17 | 5 | 4 | 17 | 34 | 32 | 78 |
-| 360d | 2025-09-18 | 13 | 15 | 25 | 92 | 62 | 157 |
-| last720d | 2024-09-23 | 26 | 29 | 38 | 303 | 162 | 307 |
-
-## Distribution status
-
-Reported by **115** distros on [repology.org](https://repology.org/project/esbuild). **27** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.28.2` | ✅ latest |
-| Debian 14 | `0.28.2` | ✅ latest |
-| Debian 13 | `0.25.5` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.27.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.20.1` | ⚠️ outdated |
-| Arch | `0.28.2` | ✅ latest |
-| Homebrew | `0.28.2` | ✅ latest |
-| Fedora rawhide | `0.27.2` | ⚠️ outdated |
-| Nix unstable | `0.27.2` | ⚠️ outdated |
-| Void | `0.28.0` | ⚠️ outdated |
-| Alpine edge | `0.27.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.28.2` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 12 | 1 | 8 | 0 |
+| last60d | 2026-07-16 | 1 | 1 | 16 | 6 | 13 | 34 |
+| 90d | 2026-06-16 | 1 | 3 | 16 | 12 | 19 | 34 |
+| last180d | 2026-03-18 | 5 | 4 | 19 | 33 | 32 | 78 |
+| 360d | 2025-09-19 | 13 | 15 | 27 | 92 | 62 | 157 |
+| last720d | 2024-09-24 | 26 | 29 | 40 | 302 | 162 | 307 |
 
 ## Improve this data
 
@@ -92,4 +73,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:37:47Z._
