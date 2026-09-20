@@ -4,7 +4,7 @@
 
 An extremely fast bundler for the web
 
-![esbuild](https://repo.x-cmd.io/esbuild.svg?lang=zh)
+[![x-cmd/install — esbuild Code Quality Monitoring Repo Card](https://repo.x-cmd.io/esbuild.svg?lang=zh)](https://x-cmd.com/install/esbuild)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install esbuild
 
 ## 流行度
 
-- **Star**: 40,059 · **Fork**: 1,344 · **开放 issue**: 3,925 · **贡献者**: 127
+- **Star**: 40,063 · **Fork**: 1,346 · **开放 issue**: 3,927 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 315 · **已合并 PR**: 263 · **开放 PR**: 71 · **已关闭 issue**: 3374 · **开放 issue**: 551 · **提交数**: 4478
+- **发布数**: 315 · **已合并 PR**: 263 · **开放 PR**: 71 · **已关闭 issue**: 3376 · **开放 issue**: 551 · **提交数**: 4478
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 11 | 1 | 8 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 16 | 6 | 13 | 34 |
-| 90d | 2026-06-20 | 1 | 3 | 16 | 10 | 19 | 34 |
-| last180d | 2026-03-22 | 5 | 4 | 19 | 33 | 33 | 78 |
-| 360d | 2025-09-23 | 13 | 15 | 27 | 92 | 63 | 157 |
-| last720d | 2024-09-28 | 26 | 29 | 38 | 297 | 161 | 307 |
+| 30d | 2026-08-21 | 0 | 0 | 10 | 1 | 7 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 16 | 6 | 13 | 34 |
+| 90d | 2026-06-22 | 1 | 3 | 16 | 10 | 19 | 34 |
+| last180d | 2026-03-24 | 5 | 4 | 19 | 33 | 32 | 78 |
+| 360d | 2025-09-25 | 13 | 15 | 27 | 92 | 62 | 157 |
+| last720d | 2024-09-30 | 26 | 29 | 38 | 296 | 160 | 307 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ esbuild 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:33:33Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:38:40Z._

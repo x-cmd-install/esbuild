@@ -4,7 +4,7 @@
 
 An extremely fast bundler for the web
 
-![esbuild](https://repo.x-cmd.io/esbuild.svg)
+[![x-cmd/install — esbuild Code Quality Monitoring Repo Card](https://repo.x-cmd.io/esbuild.svg)](https://x-cmd.com/install/esbuild)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,059 · **Forks**: 1,344 · **Open issues**: 3,925 · **Contributors**: 127
+- **Stars**: 40,063 · **Forks**: 1,346 · **Open issues**: 3,927 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 71 · **Closed issues**: 3374 · **Open issues**: 551 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 71 · **Closed issues**: 3376 · **Open issues**: 551 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 11 | 1 | 8 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 16 | 6 | 13 | 34 |
-| 90d | 2026-06-20 | 1 | 3 | 16 | 10 | 19 | 34 |
-| last180d | 2026-03-22 | 5 | 4 | 19 | 33 | 33 | 78 |
-| 360d | 2025-09-23 | 13 | 15 | 27 | 92 | 63 | 157 |
-| last720d | 2024-09-28 | 26 | 29 | 38 | 297 | 161 | 307 |
+| 30d | 2026-08-21 | 0 | 0 | 10 | 1 | 7 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 16 | 6 | 13 | 34 |
+| 90d | 2026-06-22 | 1 | 3 | 16 | 10 | 19 | 34 |
+| last180d | 2026-03-24 | 5 | 4 | 19 | 33 | 32 | 78 |
+| 360d | 2025-09-25 | 13 | 15 | 27 | 92 | 62 | 157 |
+| last720d | 2024-09-30 | 26 | 29 | 38 | 296 | 160 | 307 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:33:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:39Z._
