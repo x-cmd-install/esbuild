@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,071 · **Forks**: 1,351 · **Open issues**: 3,930 · **Contributors**: 127
+- **Stars**: 40,070 · **Forks**: 1,351 · **Open issues**: 3,931 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 74 · **Closed issues**: 3378 · **Open issues**: 552 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 74 · **Closed issues**: 3378 · **Open issues**: 553 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 6 | 0 | 5 | 0 |
-| last60d | 2026-08-04 | 1 | 0 | 20 | 5 | 13 | 34 |
-| 90d | 2026-07-05 | 1 | 2 | 20 | 8 | 20 | 34 |
-| last180d | 2026-04-06 | 2 | 4 | 22 | 27 | 29 | 49 |
-| 360d | 2025-10-08 | 13 | 14 | 30 | 89 | 62 | 156 |
-| last720d | 2024-10-13 | 26 | 29 | 42 | 288 | 158 | 307 |
+| 30d | 2026-09-04 | 0 | 0 | 6 | 0 | 3 | 0 |
+| last60d | 2026-08-05 | 1 | 0 | 20 | 4 | 13 | 34 |
+| 90d | 2026-07-06 | 1 | 2 | 20 | 8 | 20 | 34 |
+| last180d | 2026-04-07 | 2 | 4 | 22 | 27 | 30 | 49 |
+| 360d | 2025-10-09 | 13 | 14 | 30 | 88 | 63 | 156 |
+| last720d | 2024-10-14 | 26 | 29 | 42 | 287 | 159 | 307 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:53:13Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:23:53Z._
