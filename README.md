@@ -30,8 +30,8 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,070 · **Forks**: 1,356 · **Open issues**: 3,934 · **Contributors**: 127
+- **Stars**: 40,078 · **Forks**: 1,357 · **Open issues**: 3,934 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 7 | 0 | 7 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 19 | 1 | 15 | 0 |
-| 90d | 2026-07-15 | 1 | 1 | 23 | 6 | 20 | 34 |
-| last180d | 2026-04-16 | 2 | 4 | 25 | 26 | 30 | 49 |
-| 360d | 2025-10-18 | 12 | 14 | 33 | 82 | 65 | 150 |
-| last720d | 2024-10-23 | 26 | 29 | 44 | 288 | 159 | 306 |
+| 30d | 2026-09-14 | 0 | 0 | 6 | 0 | 7 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 19 | 1 | 15 | 0 |
+| 90d | 2026-07-16 | 1 | 1 | 23 | 6 | 20 | 34 |
+| last180d | 2026-04-17 | 2 | 4 | 25 | 26 | 30 | 49 |
+| 360d | 2025-10-19 | 12 | 14 | 33 | 82 | 65 | 150 |
+| last720d | 2024-10-24 | 26 | 29 | 44 | 288 | 158 | 306 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:25:00Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:26:55Z._
