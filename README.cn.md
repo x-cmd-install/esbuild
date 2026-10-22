@@ -30,8 +30,8 @@ x install esbuild
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install esbuild
 
 ## 流行度
 
-- **Star**: 40,100 · **Fork**: 1,368 · **开放 issue**: 3,935 · **贡献者**: 127
+- **Star**: 40,102 · **Fork**: 1,371 · **开放 issue**: 3,935 · **贡献者**: 127
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install esbuild
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 8 | 0 | 7 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 19 | 1 | 14 | 0 |
-| 90d | 2026-07-23 | 1 | 1 | 25 | 6 | 20 | 34 |
-| last180d | 2026-04-24 | 2 | 4 | 26 | 25 | 30 | 49 |
-| 360d | 2025-10-26 | 12 | 14 | 35 | 81 | 66 | 150 |
-| last720d | 2024-10-31 | 26 | 29 | 46 | 285 | 156 | 306 |
+| 30d | 2026-09-22 | 0 | 0 | 8 | 0 | 7 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 19 | 1 | 14 | 0 |
+| 90d | 2026-07-24 | 1 | 1 | 25 | 6 | 20 | 34 |
+| last180d | 2026-04-25 | 2 | 4 | 26 | 25 | 30 | 49 |
+| 360d | 2025-10-27 | 12 | 14 | 35 | 81 | 65 | 150 |
+| last720d | 2024-11-01 | 26 | 29 | 46 | 285 | 156 | 306 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ esbuild 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:15:57Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:13:09Z._

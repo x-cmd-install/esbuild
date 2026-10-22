@@ -30,8 +30,8 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,100 · **Forks**: 1,368 · **Open issues**: 3,935 · **Contributors**: 127
+- **Stars**: 40,102 · **Forks**: 1,371 · **Open issues**: 3,935 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 8 | 0 | 7 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 19 | 1 | 14 | 0 |
-| 90d | 2026-07-23 | 1 | 1 | 25 | 6 | 20 | 34 |
-| last180d | 2026-04-24 | 2 | 4 | 26 | 25 | 30 | 49 |
-| 360d | 2025-10-26 | 12 | 14 | 35 | 81 | 66 | 150 |
-| last720d | 2024-10-31 | 26 | 29 | 46 | 285 | 156 | 306 |
+| 30d | 2026-09-22 | 0 | 0 | 8 | 0 | 7 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 19 | 1 | 14 | 0 |
+| 90d | 2026-07-24 | 1 | 1 | 25 | 6 | 20 | 34 |
+| last180d | 2026-04-25 | 2 | 4 | 26 | 25 | 30 | 49 |
+| 360d | 2025-10-27 | 12 | 14 | 35 | 81 | 65 | 150 |
+| last720d | 2024-11-01 | 26 | 29 | 46 | 285 | 156 | 306 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:15:56Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:13:09Z._
