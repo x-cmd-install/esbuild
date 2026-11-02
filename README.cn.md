@@ -47,7 +47,7 @@ x install esbuild
 
 ## 流行度
 
-- **Star**: 40,120 · **Fork**: 1,367 · **开放 issue**: 3,938 · **贡献者**: 127
+- **Star**: 40,119 · **Fork**: 1,367 · **开放 issue**: 3,938 · **贡献者**: 127
 
 ## 累计统计
 
@@ -57,12 +57,31 @@ x install esbuild
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 7 | 0 | 8 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 13 | 1 | 13 | 0 |
-| 90d | 2026-08-03 | 1 | 1 | 28 | 6 | 23 | 34 |
-| last180d | 2026-05-05 | 2 | 3 | 29 | 22 | 33 | 49 |
-| 360d | 2025-11-06 | 11 | 10 | 36 | 75 | 65 | 136 |
-| last720d | 2024-11-11 | 26 | 29 | 48 | 278 | 154 | 306 |
+| 30d | 2026-10-03 | 0 | 0 | 7 | 0 | 8 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 13 | 0 | 13 | 0 |
+| 90d | 2026-08-04 | 1 | 0 | 28 | 5 | 21 | 0 |
+| last180d | 2026-05-06 | 2 | 3 | 29 | 21 | 33 | 49 |
+| 360d | 2025-11-07 | 11 | 10 | 36 | 75 | 65 | 123 |
+| last720d | 2024-11-12 | 26 | 29 | 48 | 277 | 151 | 306 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/esbuild) 上共有 **113** 个发行版报告此项目。**34** 个 ✅ 已是最新上游版本，**64** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.28.2` | ✅ latest |
+| Debian 14 | `0.28.2` | ✅ latest |
+| Debian 13 | `0.25.5` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.27.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.20.1` | ⚠️ outdated |
+| Arch | `0.28.2` | ✅ latest |
+| Homebrew | `0.28.2` | ✅ latest |
+| Fedora rawhide | `0.28.2` | ✅ latest |
+| Nix unstable | `0.27.2` | ⚠️ outdated |
+| Void | `0.28.0` | ⚠️ outdated |
+| Alpine edge | `0.27.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.28.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -73,4 +92,4 @@ esbuild 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:41:45Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:57:55Z._

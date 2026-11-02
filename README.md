@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,120 · **Forks**: 1,367 · **Open issues**: 3,938 · **Contributors**: 127
+- **Stars**: 40,119 · **Forks**: 1,367 · **Open issues**: 3,938 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -57,12 +57,31 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 7 | 0 | 8 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 13 | 1 | 13 | 0 |
-| 90d | 2026-08-03 | 1 | 1 | 28 | 6 | 23 | 34 |
-| last180d | 2026-05-05 | 2 | 3 | 29 | 22 | 33 | 49 |
-| 360d | 2025-11-06 | 11 | 10 | 36 | 75 | 65 | 136 |
-| last720d | 2024-11-11 | 26 | 29 | 48 | 278 | 154 | 306 |
+| 30d | 2026-10-03 | 0 | 0 | 7 | 0 | 8 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 13 | 0 | 13 | 0 |
+| 90d | 2026-08-04 | 1 | 0 | 28 | 5 | 21 | 0 |
+| last180d | 2026-05-06 | 2 | 3 | 29 | 21 | 33 | 49 |
+| 360d | 2025-11-07 | 11 | 10 | 36 | 75 | 65 | 123 |
+| last720d | 2024-11-12 | 26 | 29 | 48 | 277 | 151 | 306 |
+
+## Distribution status
+
+Reported by **113** distros on [repology.org](https://repology.org/project/esbuild). **34** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.28.2` | ✅ latest |
+| Debian 14 | `0.28.2` | ✅ latest |
+| Debian 13 | `0.25.5` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.27.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.20.1` | ⚠️ outdated |
+| Arch | `0.28.2` | ✅ latest |
+| Homebrew | `0.28.2` | ✅ latest |
+| Fedora rawhide | `0.28.2` | ✅ latest |
+| Nix unstable | `0.27.2` | ⚠️ outdated |
+| Void | `0.28.0` | ⚠️ outdated |
+| Alpine edge | `0.27.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.28.2` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +92,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:41:45Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:57:54Z._
