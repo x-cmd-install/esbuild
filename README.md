@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,125 · **Forks**: 1,368 · **Open issues**: 3,941 · **Contributors**: 127
+- **Stars**: 40,121 · **Forks**: 1,368 · **Open issues**: 3,949 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 84 · **Closed issues**: 3380 · **Open issues**: 561 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 84 · **Closed issues**: 3380 · **Open issues**: 569 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 10 | 0 | 11 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 16 | 0 | 14 | 0 |
-| 90d | 2026-08-08 | 1 | 0 | 30 | 2 | 24 | 0 |
-| last180d | 2026-05-10 | 2 | 3 | 32 | 21 | 36 | 49 |
-| 360d | 2025-11-11 | 9 | 9 | 39 | 75 | 68 | 123 |
-| last720d | 2024-11-16 | 26 | 29 | 50 | 276 | 153 | 306 |
+| 30d | 2026-10-08 | 0 | 0 | 10 | 0 | 18 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 16 | 0 | 22 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 30 | 1 | 32 | 0 |
+| last180d | 2026-05-11 | 2 | 3 | 32 | 21 | 44 | 49 |
+| 360d | 2025-11-12 | 9 | 9 | 39 | 75 | 76 | 123 |
+| last720d | 2024-11-17 | 26 | 29 | 50 | 276 | 161 | 306 |
 
 ## Distribution status
 
-Reported by **113** distros on [repology.org](https://repology.org/project/esbuild). **34** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **114** distros on [repology.org](https://repology.org/project/esbuild). **37** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **113** distros on [repology.org](https://repology.org/project/esbui
 | Ubuntu 26.04 LTS | `0.27.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.1` | ⚠️ outdated |
 | Arch | `0.28.2` | ✅ latest |
-| Homebrew | `0.28.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.28.2` | ✅ latest |
 | Nix unstable | `0.27.2` | ⚠️ outdated |
 | Void | `0.28.0` | ⚠️ outdated |
@@ -92,4 +92,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:16:07Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:28:53Z._
