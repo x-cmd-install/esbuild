@@ -1,33 +1,10 @@
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild-dev
-    - esbuild
-  visiblename: golang-github-evanw-esbuild
-  version: 0.25.5
-  origversion: 0.25.5-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
-  categories:
-    - golang
-- repo: deepin_23
-  subrepo: main
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild-dev
-    - esbuild
-  visiblename: golang-github-evanw-esbuild
-  version: 0.19.3
-  origversion: 0.19.3-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
-  categories:
-    - golang
+- repo: homebrew
+  srcname: esbuild
+  visiblename: esbuild
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Extremely fast JavaScript bundler and minifier
 - repo: alpine_3_18
   subrepo: community
   srcname: esbuild
@@ -119,19 +96,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: apertis_v2026
-  subrepo: v2026/target
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild-dev
-    - esbuild
-  visiblename: golang-github-evanw-esbuild
-  version: 0.25.5
-  origversion: 0.25.5-1+apertis0
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
 - repo: alpine_3_22
   subrepo: community
   srcname: esbuild
@@ -197,6 +161,21 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild-dev
+    - esbuild
+  visiblename: golang-github-evanw-esbuild
+  version: 0.17.0
+  origversion: 0.17.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - foka@debian.org
+  categories:
+    - golang
 - repo: alpine_edge
   subrepo: community
   srcname: esbuild
@@ -223,6 +202,18 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: freebsd
+  srcname: devel/esbuild
+  binname: esbuild
+  visiblename: devel/esbuild
+  version: 0.28.2
+  origversion: null
+  status: newest
+  summary: Extremely fast JavaScript bundler and minifier
+  maintainers:
+    - dch@freebsd.org
+  categories:
+    - devel
 - repo: alt_p11
   srcname: esbuild
   binnames:
@@ -277,6 +268,19 @@
   visiblename: golang-github-evanw-esbuild
   version: 0.17.0
   origversion: 0.17.0-1+apertis1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - foka@debian.org
+- repo: apertis_v2026
+  subrepo: v2026/target
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild-dev
+    - esbuild
+  visiblename: golang-github-evanw-esbuild
+  version: 0.25.5
+  origversion: 0.25.5-1+apertis0
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
@@ -429,17 +433,21 @@
     - kapouer@melix.org
   categories:
     - golang
-- repo: nix_stable_25_05
-  srcname: esbuild_netlify
-  visiblename: esbuild
-  version: 0.14.39
-  origversion: null
-  status: legacy
-  summary: Fork of esbuild maintained by netlify
+- repo: deepin_23
+  subrepo: main
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild-dev
+    - esbuild
+  visiblename: golang-github-evanw-esbuild
+  version: 0.19.3
+  origversion: 0.19.3-1
+  status: outdated
   maintainers:
-    - nixpkgs@roberthensing.nl
-  licenses:
-    - MIT
+    - team+pkg-go@tracker.debian.org
+    - foka@debian.org
+  categories:
+    - golang
 - repo: deepin_25
   subrepo: main
   srcname: golang-github-evanw-esbuild
@@ -503,6 +511,21 @@
     - MIT
   categories:
     - Unspecified
+- repo: gentoo
+  srcname: dev-util/esbuild
+  visiblename: dev-util/esbuild
+  version: 0.25.1
+  origversion: null
+  status: legacy
+  summary: A modern, extremely fast, JavaScript and CSS bundler and minifier
+  maintainers:
+    - kangie@gentoo.org
+    - chromium@gentoo.org
+  licenses:
+    - BSD
+    - MIT
+  categories:
+    - dev-util
 - repo: epel_10
   srcname: golang-github-evanw-esbuild
   binnames:
@@ -579,24 +602,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild
-    - golang-github-evanw-esbuild-devel
-    - nodejs-esbuild
-    - golang-github-evanw-esbuild-debuginfo
-    - golang-github-evanw-esbuild-debugsource
-  visiblename: golang-github-evanw-esbuild
-  version: 0.24.2
-  origversion: 0.24.2-4.fc42
-  status: outdated
-  summary: Fast JavaScript bundler and minifier
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: golang-github-evanw-esbuild
   binnames:
@@ -613,7 +618,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_42
   subrepo: updates
   srcname: golang-github-evanw-esbuild
   binnames:
@@ -623,9 +628,9 @@
     - golang-github-evanw-esbuild-debuginfo
     - golang-github-evanw-esbuild-debugsource
   visiblename: golang-github-evanw-esbuild
-  version: 0.28.2
-  origversion: 0.28.2-1.fc43
-  status: newest
+  version: 0.24.2
+  origversion: 0.24.2-4.fc42
+  status: outdated
   summary: Fast JavaScript bundler and minifier
   licenses:
     - MIT
@@ -648,8 +653,16 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: release
+- repo: gnuguix
+  srcname: esbuild
+  binname: esbuild
+  visiblename: esbuild
+  version: 0.24.0
+  origversion: null
+  status: outdated
+  summary: Bundler and minifier tool for JavaScript and TypeScript
+- repo: fedora_43
+  subrepo: updates
   srcname: golang-github-evanw-esbuild
   binnames:
     - golang-github-evanw-esbuild
@@ -658,9 +671,9 @@
     - golang-github-evanw-esbuild-debuginfo
     - golang-github-evanw-esbuild-debugsource
   visiblename: golang-github-evanw-esbuild
-  version: 0.27.2
-  origversion: 0.27.2-4.fc44
-  status: legacy
+  version: 0.28.2
+  origversion: 0.28.2-1.fc43
+  status: newest
   summary: Fast JavaScript bundler and minifier
   licenses:
     - MIT
@@ -684,6 +697,24 @@
     - MIT
   categories:
     - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild
+    - golang-github-evanw-esbuild-devel
+    - nodejs-esbuild
+    - golang-github-evanw-esbuild-debuginfo
+    - golang-github-evanw-esbuild-debugsource
+  visiblename: golang-github-evanw-esbuild
+  version: 0.27.2
+  origversion: 0.27.2-4.fc44
+  status: legacy
+  summary: Fast JavaScript bundler and minifier
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: golang-github-evanw-esbuild
@@ -702,18 +733,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: freebsd
-  srcname: devel/esbuild
-  binname: esbuild
-  visiblename: devel/esbuild
-  version: 0.28.2
-  origversion: null
-  status: newest
-  summary: Extremely fast JavaScript bundler and minifier
-  maintainers:
-    - dch@freebsd.org
-  categories:
-    - devel
 - repo: gentoo
   srcname: dev-util/esbuild
   visiblename: dev-util/esbuild
@@ -759,42 +778,12 @@
     - MIT
   categories:
     - dev-util
-- repo: gentoo
-  srcname: dev-util/esbuild
-  visiblename: dev-util/esbuild
-  version: 0.25.1
-  origversion: null
-  status: legacy
-  summary: A modern, extremely fast, JavaScript and CSS bundler and minifier
-  maintainers:
-    - kangie@gentoo.org
-    - chromium@gentoo.org
-  licenses:
-    - BSD
-    - MIT
-  categories:
-    - dev-util
-- repo: gnuguix
-  srcname: esbuild
-  binname: esbuild
-  visiblename: esbuild
-  version: 0.24.0
-  origversion: null
-  status: outdated
-  summary: Bundler and minifier tool for JavaScript and TypeScript
 - repo: homebrew
   srcname: esbuild
   visiblename: esbuild
   version: 0.28.2
   origversion: null
   status: newest
-  summary: Extremely fast JavaScript bundler and minifier
-- repo: homebrew
-  srcname: esbuild
-  visiblename: esbuild
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Extremely fast JavaScript bundler and minifier
 - repo: kali_rolling
   subrepo: main
@@ -1041,6 +1030,17 @@
     - ivan@ludios.org
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: esbuild_netlify
+  visiblename: esbuild
+  version: 0.14.39
+  origversion: null
+  status: legacy
+  summary: Fork of esbuild maintained by netlify
+  maintainers:
+    - nixpkgs@roberthensing.nl
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: esbuild
   visiblename: esbuild
@@ -1232,6 +1232,35 @@
     - foka@debian.org
   categories:
     - golang
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild-dev
+    - esbuild
+  visiblename: golang-github-evanw-esbuild
+  version: 0.25.5
+  origversion: 0.25.5-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - foka@debian.org
+  categories:
+    - golang
+- repo: pisi_main
+  subrepo: main
+  srcname: programming/build/esbuild
+  visiblename: esbuild
+  version: 0.28.1
+  origversion: null
+  status: outdated
+  summary: An extremely fast JavaScript and CSS bundler and minifier.
+  maintainers:
+    - admin@pisilinux.org
+  licenses:
+    - MIT
+  categories:
+    - library
 - repo: pkgsrc_2026_2
   srcname: www/esbuild
   binname: esbuild
@@ -1298,21 +1327,6 @@
     - foka@debian.org
   categories:
     - javascript
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild-dev
-    - esbuild
-  visiblename: golang-github-evanw-esbuild
-  version: 0.17.0
-  origversion: 0.17.0-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
-  categories:
-    - golang
 - repo: raspbian_stable
   subrepo: main
   srcname: golang-github-evanw-esbuild
@@ -1401,21 +1415,6 @@
   maintainers:
     - termux@github
 - repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: golang-github-evanw-esbuild
-  binnames:
-    - golang-github-evanw-esbuild-dev
-    - esbuild
-  visiblename: golang-github-evanw-esbuild
-  version: 0.14.11
-  origversion: 0.14.11-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy-updates/universe
   srcname: golang-github-evanw-esbuild
   binnames:
@@ -1427,6 +1426,21 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - foka@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: golang-github-evanw-esbuild
+  binnames:
+    - golang-github-evanw-esbuild-dev
+    - esbuild
+  visiblename: golang-github-evanw-esbuild
+  version: 0.14.11
+  origversion: 0.14.11-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - foka@debian.org
   categories:
     - universe/misc
