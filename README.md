@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,140 · **Forks**: 1,376 · **Open issues**: 3,953 · **Contributors**: 127
+- **Stars**: 40,142 · **Forks**: 1,378 · **Open issues**: 3,954 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 98 · **Closed issues**: 3384 · **Open issues**: 569 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 99 · **Closed issues**: 3384 · **Open issues**: 570 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 23 | 4 | 15 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 29 | 4 | 22 | 0 |
-| 90d | 2026-08-14 | 0 | 0 | 41 | 5 | 30 | 0 |
-| last180d | 2026-05-16 | 2 | 3 | 46 | 24 | 44 | 49 |
-| 360d | 2025-11-17 | 9 | 9 | 53 | 75 | 74 | 123 |
-| last720d | 2024-11-22 | 26 | 29 | 64 | 278 | 158 | 306 |
+| 30d | 2026-10-14 | 0 | 0 | 24 | 4 | 16 | 0 |
+| last60d | 2026-09-14 | 0 | 0 | 29 | 4 | 23 | 0 |
+| 90d | 2026-08-15 | 0 | 0 | 42 | 5 | 31 | 0 |
+| last180d | 2026-05-17 | 2 | 3 | 47 | 23 | 45 | 49 |
+| 360d | 2025-11-18 | 9 | 9 | 54 | 73 | 74 | 123 |
+| last720d | 2024-11-23 | 26 | 29 | 65 | 278 | 159 | 306 |
 
 ## Distribution status
 
-Reported by **116** distros on [repology.org](https://repology.org/project/esbuild). **38** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **116** distros on [repology.org](https://repology.org/project/esbuild). **39** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:13:27Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:23:46Z._
