@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,163 · **Forks**: 1,494 · **Open issues**: 3,959 · **Contributors**: 127
+- **Stars**: 40,170 · **Forks**: 1,497 · **Open issues**: 3,960 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 105 · **Closed issues**: 3384 · **Open issues**: 575 · **Commits**: 4478
+- **Releases**: 315 · **Merged PRs**: 263 · **Open PRs**: 106 · **Closed issues**: 3384 · **Open issues**: 576 · **Commits**: 4478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 26 | 4 | 21 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 35 | 4 | 28 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 46 | 5 | 35 | 0 |
-| last180d | 2026-05-26 | 2 | 3 | 52 | 20 | 50 | 49 |
-| 360d | 2025-11-27 | 9 | 9 | 60 | 69 | 78 | 123 |
-| last720d | 2024-12-02 | 26 | 29 | 71 | 272 | 157 | 306 |
+| 30d | 2026-10-24 | 0 | 0 | 27 | 4 | 21 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 36 | 4 | 29 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 45 | 5 | 36 | 0 |
+| last180d | 2026-05-27 | 2 | 3 | 53 | 20 | 51 | 0 |
+| 360d | 2025-11-28 | 9 | 9 | 61 | 68 | 79 | 0 |
+| last720d | 2024-12-03 | 26 | 29 | 72 | 272 | 158 | 306 |
 
 ## Distribution status
 
@@ -76,7 +76,7 @@ Reported by **118** distros on [repology.org](https://repology.org/project/esbui
 | Ubuntu 26.04 LTS | `0.27.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.1` | ⚠️ outdated |
 | Arch | `0.28.2` | ✅ latest |
-| Homebrew | `0.28.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.28.2` | ✅ latest |
 | Nix unstable | `0.27.2` | ⚠️ outdated |
 | Void | `0.28.0` | ⚠️ outdated |
@@ -92,4 +92,4 @@ Install metadata for esbuild lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:56:18Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:15:34Z._
